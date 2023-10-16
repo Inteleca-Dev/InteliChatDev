@@ -1,0 +1,30 @@
+Task:
+Develop a Python application to process a multi-column Excel file, categorizing data, and generating a folder with CSS, HTML, and JavaScript files. Ensure efficient data display, an appealing HTML output with a full top menu, and seamless integration into the existing application structure.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+python application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
