@@ -1,0 +1,435 @@
+"filename", "language", "Markdown", "pip requirements", "Python", "JSON", "Log", "HTML", "JavaScript", "CSS", "comment", "blank", "total"
+"c:\GitHub\InteliChatDev\CompanyConfig\Art\ChatChainConfig.json", "JSON", 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 120
+"c:\GitHub\InteliChatDev\CompanyConfig\Default\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\CompanyConfig\Default\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\CompanyConfig\Default\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\CompanyConfig\Human\ChatChainConfig.json", "JSON", 0, 0, 0, 114, 0, 0, 0, 0, 0, 1, 115
+"c:\GitHub\InteliChatDev\CompanyConfig\Human\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\Contribution.md", "Markdown", 276, 0, 0, 0, 0, 0, 0, 0, 0, 4, 280
+"c:\GitHub\InteliChatDev\README.md", "Markdown", 163, 0, 0, 0, 0, 0, 0, 0, 0, 34, 197
+"c:\GitHub\InteliChatDev\WareHouse\2048_THUNLP_20230822144615\20230822144615.log", "Log", 0, 0, 0, 0, 6302, 0, 0, 0, 0, 1573, 7875
+"c:\GitHub\InteliChatDev\WareHouse\2048_THUNLP_20230822144615\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\2048_THUNLP_20230822144615\PhaseConfig.json", "JSON", 0, 0, 0, 302, 0, 0, 0, 0, 0, 0, 302
+"c:\GitHub\InteliChatDev\WareHouse\2048_THUNLP_20230822144615\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\2048_THUNLP_20230822144615\game.py", "Python", 0, 0, 103, 0, 0, 0, 0, 0, 0, 0, 103
+"c:\GitHub\InteliChatDev\WareHouse\2048_THUNLP_20230822144615\main.py", "Python", 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 48
+"c:\GitHub\InteliChatDev\WareHouse\2048_THUNLP_20230822144615\manual.md", "Markdown", 28, 0, 0, 0, 0, 0, 0, 0, 0, 15, 43
+"c:\GitHub\InteliChatDev\WareHouse\2048_THUNLP_20230822144615\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\ArtCanvas_THUNLP_20230825093558\ArtCanvas_THUNLP_20230825093558.log", "Log", 0, 0, 0, 0, 2239, 0, 0, 0, 0, 1009, 3248
+"c:\GitHub\InteliChatDev\WareHouse\ArtCanvas_THUNLP_20230825093558\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\ArtCanvas_THUNLP_20230825093558\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\ArtCanvas_THUNLP_20230825093558\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\ArtCanvas_THUNLP_20230825093558\main.py", "Python", 0, 0, 39, 0, 0, 0, 0, 0, 0, 0, 39
+"c:\GitHub\InteliChatDev\WareHouse\ArtCanvas_THUNLP_20230825093558\manual.md", "Markdown", 43, 0, 0, 0, 0, 0, 0, 0, 0, 32, 75
+"c:\GitHub\InteliChatDev\WareHouse\ArtCanvas_THUNLP_20230825093558\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\GitHub\InteliChatDev\WareHouse\BMI Calculator_DefaultOrganization_20230918110521\BMI Calculator_DefaultOrganization_20230918110521.log", "Log", 0, 0, 0, 0, 2104, 0, 0, 0, 0, 639, 2743
+"c:\GitHub\InteliChatDev\WareHouse\BMI Calculator_DefaultOrganization_20230918110521\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\BMI Calculator_DefaultOrganization_20230918110521\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\BMI Calculator_DefaultOrganization_20230918110521\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\BMI Calculator_DefaultOrganization_20230918110521\bmi_calculator.py", "Python", 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 9
+"c:\GitHub\InteliChatDev\WareHouse\BMI Calculator_DefaultOrganization_20230918110521\main.py", "Python", 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 36
+"c:\GitHub\InteliChatDev\WareHouse\BMI Calculator_DefaultOrganization_20230918110521\manual.md", "Markdown", 30, 0, 0, 0, 0, 0, 0, 0, 0, 25, 55
+"c:\GitHub\InteliChatDev\WareHouse\BackgroundRemoval_THUNLP_20231015220703\BackgroundRemoval_THUNLP_20231015220703.log", "Log", 0, 0, 0, 0, 3473, 0, 0, 0, 0, 870, 4343
+"c:\GitHub\InteliChatDev\WareHouse\BackgroundRemoval_THUNLP_20231015220703\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\BackgroundRemoval_THUNLP_20231015220703\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\BackgroundRemoval_THUNLP_20231015220703\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\BackgroundRemoval_THUNLP_20231015220703\background_removal.py", "Python", 0, 0, 14, 0, 0, 0, 0, 0, 0, 12, 26
+"c:\GitHub\InteliChatDev\WareHouse\BackgroundRemoval_THUNLP_20231015220703\main.py", "Python", 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 45
+"c:\GitHub\InteliChatDev\WareHouse\BackgroundRemoval_THUNLP_20231015220703\manual.md", "Markdown", 33, 0, 0, 0, 0, 0, 0, 0, 0, 26, 59
+"c:\GitHub\InteliChatDev\WareHouse\BackgroundRemoval_THUNLP_20231015220703\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\BookBreeze_THUNLP_20230825072339.log", "Log", 0, 0, 0, 0, 11148, 0, 0, 0, 0, 2943, 14091
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\ebook_reader.py", "Python", 0, 0, 80, 0, 0, 0, 0, 0, 0, 0, 80
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\main.py", "Python", 0, 0, 9, 0, 0, 0, 0, 0, 2, 0, 11
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\manual.md", "Markdown", 41, 0, 0, 0, 0, 0, 0, 0, 0, 25, 66
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\readme.md", "Markdown", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20
+"c:\GitHub\InteliChatDev\WareHouse\BookBreeze_THUNLP_20230825072339\requirements.txt", "pip requirements", 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\GitHub\InteliChatDev\WareHouse\Calculator_THUNLP_20230628184918\20230628184918.log", "Log", 0, 0, 0, 0, 3, 0, 0, 0, 0, 4, 7
+"c:\GitHub\InteliChatDev\WareHouse\Calculator_THUNLP_20230628184918\calculator.py", "Python", 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 43
+"c:\GitHub\InteliChatDev\WareHouse\Calculator_THUNLP_20230628184918\main.py", "Python", 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 9
+"c:\GitHub\InteliChatDev\WareHouse\CurrencyWiz_THUNLP_20230825101851\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\CurrencyWiz_THUNLP_20230825101851\CurrencyWiz_THUNLP_20230825101851.log", "Log", 0, 0, 0, 0, 6235, 0, 0, 0, 0, 2138, 8373
+"c:\GitHub\InteliChatDev\WareHouse\CurrencyWiz_THUNLP_20230825101851\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\CurrencyWiz_THUNLP_20230825101851\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\CurrencyWiz_THUNLP_20230825101851\main.py", "Python", 0, 0, 54, 0, 0, 0, 0, 0, 0, 0, 54
+"c:\GitHub\InteliChatDev\WareHouse\CurrencyWiz_THUNLP_20230825101851\manual.md", "Markdown", 32, 0, 0, 0, 0, 0, 0, 0, 0, 20, 52
+"c:\GitHub\InteliChatDev\WareHouse\DesignDream_THUNLP_20230825072340\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\DesignDream_THUNLP_20230825072340\DesignDream_THUNLP_20230825072340.log", "Log", 0, 0, 0, 0, 13845, 0, 0, 0, 0, 3237, 17082
+"c:\GitHub\InteliChatDev\WareHouse\DesignDream_THUNLP_20230825072340\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\DesignDream_THUNLP_20230825072340\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\DesignDream_THUNLP_20230825072340\main.py", "Python", 0, 0, 67, 0, 0, 0, 0, 0, 15, 0, 82
+"c:\GitHub\InteliChatDev\WareHouse\DesignDream_THUNLP_20230825072340\manual.md", "Markdown", 54, 0, 0, 0, 0, 0, 0, 0, 0, 49, 103
+"c:\GitHub\InteliChatDev\WareHouse\DesignDream_THUNLP_20230825072340\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\DesignDream_THUNLP_20230825072340\room.py", "Python", 0, 0, 70, 0, 0, 0, 0, 0, 15, 0, 85
+"c:\GitHub\InteliChatDev\WareHouse\DiceRollingSimulator_THUNLP_20230825072338\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\DiceRollingSimulator_THUNLP_20230825072338\DiceRollingSimulator_THUNLP_20230825072338.log", "Log", 0, 0, 0, 0, 5581, 0, 0, 0, 0, 2425, 8006
+"c:\GitHub\InteliChatDev\WareHouse\DiceRollingSimulator_THUNLP_20230825072338\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\DiceRollingSimulator_THUNLP_20230825072338\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\DiceRollingSimulator_THUNLP_20230825072338\dice.py", "Python", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 6
+"c:\GitHub\InteliChatDev\WareHouse\DiceRollingSimulator_THUNLP_20230825072338\main.py", "Python", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 33
+"c:\GitHub\InteliChatDev\WareHouse\DiceRollingSimulator_THUNLP_20230825072338\manual.md", "Markdown", 46, 0, 0, 0, 0, 0, 0, 0, 0, 15, 61
+"c:\GitHub\InteliChatDev\WareHouse\DiceRollingSimulator_THUNLP_20230825072338\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\DigitalClock_THUNLP_20230825093556\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\DigitalClock_THUNLP_20230825093556\DigitalClock_THUNLP_20230825093556.log", "Log", 0, 0, 0, 0, 2049, 0, 0, 0, 0, 1027, 3076
+"c:\GitHub\InteliChatDev\WareHouse\DigitalClock_THUNLP_20230825093556\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\DigitalClock_THUNLP_20230825093556\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\DigitalClock_THUNLP_20230825093556\main.py", "Python", 0, 0, 21, 0, 0, 0, 0, 0, 9, 0, 30
+"c:\GitHub\InteliChatDev\WareHouse\DigitalClock_THUNLP_20230825093556\manual.md", "Markdown", 31, 0, 0, 0, 0, 0, 0, 0, 0, 24, 55
+"c:\GitHub\InteliChatDev\WareHouse\DigitalClock_THUNLP_20230825093556\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\GitHub\InteliChatDev\WareHouse\ExpenseEase_THUNLP_20230825093604\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\ExpenseEase_THUNLP_20230825093604\ExpenseEase_THUNLP_20230825093604 2.log", "Log", 0, 0, 0, 0, 2593, 0, 0, 0, 0, 1139, 3732
+"c:\GitHub\InteliChatDev\WareHouse\ExpenseEase_THUNLP_20230825093604\ExpenseEase_THUNLP_20230825093604.log", "Log", 0, 0, 0, 0, 2593, 0, 0, 0, 0, 1139, 3732
+"c:\GitHub\InteliChatDev\WareHouse\ExpenseEase_THUNLP_20230825093604\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\ExpenseEase_THUNLP_20230825093604\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\ExpenseEase_THUNLP_20230825093604\main.py", "Python", 0, 0, 39, 0, 0, 0, 0, 0, 1, 0, 40
+"c:\GitHub\InteliChatDev\WareHouse\ExpenseEase_THUNLP_20230825093604\manual.md", "Markdown", 41, 0, 0, 0, 0, 0, 0, 0, 0, 30, 71
+"c:\GitHub\InteliChatDev\WareHouse\ExpenseEase_THUNLP_20230825093604\requirements.txt", "pip requirements", 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"c:\GitHub\InteliChatDev\WareHouse\Fish_Tycoon_THUNLP_20230825093543\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\Fish_Tycoon_THUNLP_20230825093543\Fish Tycoon_THUNLP_20230825093543.log", "Log", 0, 0, 0, 0, 2703, 0, 0, 0, 0, 1069, 3772
+"c:\GitHub\InteliChatDev\WareHouse\Fish_Tycoon_THUNLP_20230825093543\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\Fish_Tycoon_THUNLP_20230825093543\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Fish_Tycoon_THUNLP_20230825093543\aquarium.py", "Python", 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 35
+"c:\GitHub\InteliChatDev\WareHouse\Fish_Tycoon_THUNLP_20230825093543\main.py", "Python", 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 26
+"c:\GitHub\InteliChatDev\WareHouse\Fish_Tycoon_THUNLP_20230825093543\manual.md", "Markdown", 32, 0, 0, 0, 0, 0, 0, 0, 0, 27, 59
+"c:\GitHub\InteliChatDev\WareHouse\Fish_Tycoon_THUNLP_20230825093543\requirements.txt", "pip requirements", 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"c:\GitHub\InteliChatDev\WareHouse\FlappyBird_THUNLP_20230726121145\20230726121145.log", "Log", 0, 0, 0, 0, 2213, 0, 0, 0, 0, 641, 2854
+"c:\GitHub\InteliChatDev\WareHouse\FlappyBird_THUNLP_20230726121145\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\FlappyBird_THUNLP_20230726121145\PhaseConfig.json", "JSON", 0, 0, 0, 304, 0, 0, 0, 0, 0, 0, 304
+"c:\GitHub\InteliChatDev\WareHouse\FlappyBird_THUNLP_20230726121145\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\FlappyBird_THUNLP_20230726121145\main.py", "Python", 0, 0, 83, 0, 0, 0, 0, 0, 0, 0, 83
+"c:\GitHub\InteliChatDev\WareHouse\FlappyBird_THUNLP_20230726121145\manual.md", "Markdown", 36, 0, 0, 0, 0, 0, 0, 0, 0, 29, 65
+"c:\GitHub\InteliChatDev\WareHouse\FlappyBird_THUNLP_20230726121145\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_DefaultOrganization_20231006033707\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_DefaultOrganization_20231006033707\Gomoku_DefaultOrganization_20231006033707.log", "Log", 0, 0, 0, 0, 66, 0, 0, 0, 0, 33, 99
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_DefaultOrganization_20231006033707\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_DefaultOrganization_20231006033707\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_HumanAgentInteraction_20230920135038\ChatChainConfig.json", "JSON", 0, 0, 0, 114, 0, 0, 0, 0, 0, 1, 115
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_HumanAgentInteraction_20230920135038\Gomoku_HumanAgentInteraction_20230920135038.log", "Log", 0, 0, 0, 0, 3823, 0, 0, 0, 0, 857, 4680
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_HumanAgentInteraction_20230920135038\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_HumanAgentInteraction_20230920135038\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_HumanAgentInteraction_20230920135038\game.py", "Python", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_HumanAgentInteraction_20230920135038\main.py", "Python", 0, 0, 63, 0, 0, 0, 0, 0, 0, 0, 63
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_HumanAgentInteraction_20230920135038\manual.md", "Markdown", 31, 0, 0, 0, 0, 0, 0, 0, 0, 14, 45
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_HumanAgentInteraction_20230920135038\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_THUNLP_20230625201030\20230625201030.log", "Log", 0, 0, 0, 0, 1173, 0, 0, 0, 0, 474, 1647
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_THUNLP_20230625201030\game.py", "Python", 0, 0, 76, 0, 0, 0, 0, 0, 10, 0, 86
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_THUNLP_20230625201030\gui.py", "Python", 0, 0, 53, 0, 0, 0, 0, 0, 4, 0, 57
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_THUNLP_20230625201030\main.py", "Python", 0, 0, 11, 0, 0, 0, 0, 0, 3, 0, 14
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_THUNLP_20230625201030\manual.md", "Markdown", 33, 0, 0, 0, 0, 0, 0, 0, 0, 28, 61
+"c:\GitHub\InteliChatDev\WareHouse\Gomoku_THUNLP_20230625201030\requirements.txt", "pip requirements", 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\GreedySnakeGame_THUNLP_20231008212648.log", "Log", 0, 0, 0, 0, 3943, 0, 0, 0, 0, 811, 4754
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\main.py", "Python", 0, 0, 80, 0, 0, 0, 0, 0, 18, 0, 98
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\manual.md", "Markdown", 42, 0, 0, 0, 0, 0, 0, 0, 0, 24, 66
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\menu.py", "Python", 0, 0, 28, 0, 0, 0, 0, 0, 11, 0, 39
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\GreedySnakeGame_THUNLP_20231008212648\settings.py", "Python", 0, 0, 7, 0, 0, 0, 0, 0, 1, 0, 8
+"c:\GitHub\InteliChatDev\WareHouse\ImgEditor_THUNLP_20230824142740\20230824142740.log", "Log", 0, 0, 0, 0, 10686, 0, 0, 0, 0, 3233, 13919
+"c:\GitHub\InteliChatDev\WareHouse\ImgEditor_THUNLP_20230824142740\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\ImgEditor_THUNLP_20230824142740\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\ImgEditor_THUNLP_20230824142740\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\ImgEditor_THUNLP_20230824142740\main.py", "Python", 0, 0, 141, 0, 0, 0, 0, 0, 0, 0, 141
+"c:\GitHub\InteliChatDev\WareHouse\ImgEditor_THUNLP_20230824142740\manual.md", "Markdown", 86, 0, 0, 0, 0, 0, 0, 0, 0, 69, 155
+"c:\GitHub\InteliChatDev\WareHouse\ImgEditor_THUNLP_20230824142740\requirements.txt", "pip requirements", 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\Matchy Match_THUNLP_20230825101854.log", "Log", 0, 0, 0, 0, 9033, 0, 0, 0, 0, 2595, 11628
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\card.py", "Python", 0, 0, 17, 0, 0, 0, 0, 0, 2, 0, 19
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\game.py", "Python", 0, 0, 62, 0, 0, 0, 0, 0, 8, 0, 70
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\main.py", "Python", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 12
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\manual.md", "Markdown", 30, 0, 0, 0, 0, 0, 0, 0, 0, 25, 55
+"c:\GitHub\InteliChatDev\WareHouse\Matchy_Match_THUNLP_20230825101854\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\MazeGenerator_THUNLP_20230825093601\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\MazeGenerator_THUNLP_20230825093601\MazeGenerator_THUNLP_20230825093601.log", "Log", 0, 0, 0, 0, 3801, 0, 0, 0, 0, 1087, 4888
+"c:\GitHub\InteliChatDev\WareHouse\MazeGenerator_THUNLP_20230825093601\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\MazeGenerator_THUNLP_20230825093601\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\MazeGenerator_THUNLP_20230825093601\main.py", "Python", 0, 0, 45, 0, 0, 0, 0, 0, 6, 0, 51
+"c:\GitHub\InteliChatDev\WareHouse\MazeGenerator_THUNLP_20230825093601\manual.md", "Markdown", 28, 0, 0, 0, 0, 0, 0, 0, 0, 23, 51
+"c:\GitHub\InteliChatDev\WareHouse\MazeGenerator_THUNLP_20230825093601\maze.py", "Python", 0, 0, 61, 0, 0, 0, 0, 0, 0, 0, 61
+"c:\GitHub\InteliChatDev\WareHouse\MazeGenerator_THUNLP_20230825093601\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\Maze_THUNLP_20231006154305\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\Maze_THUNLP_20231006154305\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\Maze_THUNLP_20231006154305\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Maze_THUNLP_20231006154305\main.py", "Python", 0, 0, 39, 0, 0, 0, 0, 0, 0, 0, 39
+"c:\GitHub\InteliChatDev\WareHouse\Maze_THUNLP_20231006154305\manual.md", "Markdown", 27, 0, 0, 0, 0, 0, 0, 0, 0, 16, 43
+"c:\GitHub\InteliChatDev\WareHouse\Maze_THUNLP_20231006154305\maze.py", "Python", 0, 0, 31, 0, 0, 0, 0, 0, 1, 0, 32
+"c:\GitHub\InteliChatDev\WareHouse\Maze_THUNLP_20231006154305\maze_DefaultOrganization_20231006154305.log", "Log", 0, 0, 0, 0, 2533, 0, 0, 0, 0, 647, 3180
+"c:\GitHub\InteliChatDev\WareHouse\MoneyCtrl_THUNLP_20230825093546\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\MoneyCtrl_THUNLP_20230825093546\MoneyCtrl_THUNLP_20230825093546.log", "Log", 0, 0, 0, 0, 3223, 0, 0, 0, 0, 1214, 4437
+"c:\GitHub\InteliChatDev\WareHouse\MoneyCtrl_THUNLP_20230825093546\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\MoneyCtrl_THUNLP_20230825093546\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\MoneyCtrl_THUNLP_20230825093546\budget.py", "Python", 0, 0, 25, 0, 0, 0, 0, 0, 5, 0, 30
+"c:\GitHub\InteliChatDev\WareHouse\MoneyCtrl_THUNLP_20230825093546\main.py", "Python", 0, 0, 48, 0, 0, 0, 0, 0, 7, 0, 55
+"c:\GitHub\InteliChatDev\WareHouse\MoneyCtrl_THUNLP_20230825093546\manual.md", "Markdown", 64, 0, 0, 0, 0, 0, 0, 0, 0, 34, 98
+"c:\GitHub\InteliChatDev\WareHouse\MoneyCtrl_THUNLP_20230825093546\requirements.txt", "pip requirements", 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\GitHub\InteliChatDev\WareHouse\Notebook Application_DefaultOrganization_20230918090434\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\Notebook Application_DefaultOrganization_20230918090434\Notebook Application_DefaultOrganization_20230918090434.log", "Log", 0, 0, 0, 0, 2612, 0, 0, 0, 0, 646, 3258
+"c:\GitHub\InteliChatDev\WareHouse\Notebook Application_DefaultOrganization_20230918090434\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\Notebook Application_DefaultOrganization_20230918090434\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Notebook Application_DefaultOrganization_20230918090434\main.py", "Python", 0, 0, 74, 0, 0, 0, 0, 0, 0, 0, 74
+"c:\GitHub\InteliChatDev\WareHouse\Notebook Application_DefaultOrganization_20230918090434\manual.md", "Markdown", 34, 0, 0, 0, 0, 0, 0, 0, 0, 22, 56
+"c:\GitHub\InteliChatDev\WareHouse\Notebook Application_DefaultOrganization_20230918090434\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\PasswordGenerator_THUNLP_20230825072337.log", "Log", 0, 0, 0, 0, 10780, 0, 0, 0, 0, 2720, 13500
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\main.py", "Python", 0, 0, 84, 0, 0, 0, 0, 0, 8, 0, 92
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\manual.md", "Markdown", 61, 0, 0, 0, 0, 0, 0, 0, 0, 42, 103
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\password_generator.py", "Python", 0, 0, 41, 0, 0, 0, 0, 0, 3, 0, 44
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\password_strength_checker.py", "Python", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 12
+"c:\GitHub\InteliChatDev\WareHouse\PasswordGenerator_THUNLP_20230825072337\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\PixelCraft_THUNLP_20230825072340\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\PixelCraft_THUNLP_20230825072340\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\PixelCraft_THUNLP_20230825072340\PixelCraft_THUNLP_20230825072340.log", "Log", 0, 0, 0, 0, 9519, 0, 0, 0, 0, 2712, 12231
+"c:\GitHub\InteliChatDev\WareHouse\PixelCraft_THUNLP_20230825072340\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\PixelCraft_THUNLP_20230825072340\main.py", "Python", 0, 0, 94, 0, 0, 0, 0, 0, 0, 0, 94
+"c:\GitHub\InteliChatDev\WareHouse\PixelCraft_THUNLP_20230825072340\manual.md", "Markdown", 43, 0, 0, 0, 0, 0, 0, 0, 0, 32, 75
+"c:\GitHub\InteliChatDev\WareHouse\PixelCraft_THUNLP_20230825072340\pixel_io.py", "Python", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 18
+"c:\GitHub\InteliChatDev\WareHouse\PixelCraft_THUNLP_20230825072340\requirements.txt", "pip requirements", 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\PixelRunner_THUNLP_20230825072339.log", "Log", 0, 0, 0, 0, 13217, 0, 0, 0, 0, 2979, 16196
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\game.py", "Python", 0, 0, 88, 0, 0, 0, 0, 0, 0, 0, 88
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\main.py", "Python", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 11
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\manual.md", "Markdown", 53, 0, 0, 0, 0, 0, 0, 0, 0, 27, 80
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\obstacle.py", "Python", 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 14
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\player.py", "Python", 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 36
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\powerup.py", "Python", 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 14
+"c:\GitHub\InteliChatDev\WareHouse\PixelRunner_THUNLP_20230825072339\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\Poker1_DefaultOrganization_20231006035628.log", "Log", 0, 0, 0, 0, 9895, 0, 0, 0, 0, 1579, 11474
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\deck.py", "Python", 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 22
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\game.py", "Python", 0, 0, 216, 0, 0, 0, 0, 0, 15, 24, 255
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\main.py", "Python", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 11
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\manual.md", "Markdown", 61, 0, 0, 0, 0, 0, 0, 0, 0, 37, 98
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\player.py", "Python", 0, 0, 99, 0, 0, 0, 0, 0, 1, 2, 102
+"c:\GitHub\InteliChatDev\WareHouse\Poker1_DefaultOrganization_20231006035628\requirements.txt", "pip requirements", 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"c:\GitHub\InteliChatDev\WareHouse\QRCodeGenerator_THUNLP_20231015214731\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\QRCodeGenerator_THUNLP_20231015214731\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\QRCodeGenerator_THUNLP_20231015214731\QRCodeGenerator_THUNLP_20231015214731.log", "Log", 0, 0, 0, 0, 2831, 0, 0, 0, 0, 700, 3531
+"c:\GitHub\InteliChatDev\WareHouse\QRCodeGenerator_THUNLP_20231015214731\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\QRCodeGenerator_THUNLP_20231015214731\main.py", "Python", 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 41
+"c:\GitHub\InteliChatDev\WareHouse\QRCodeGenerator_THUNLP_20231015214731\manual.md", "Markdown", 39, 0, 0, 0, 0, 0, 0, 0, 0, 19, 58
+"c:\GitHub\InteliChatDev\WareHouse\QRCodeGenerator_THUNLP_20231015214731\qrcode_generator.py", "Python", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 13
+"c:\GitHub\InteliChatDev\WareHouse\QRCodeGenerator_THUNLP_20231015214731\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\RGB_Color_Picker_DefaultOrganization_20231015003723\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\RGB_Color_Picker_DefaultOrganization_20231015003723\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\RGB_Color_Picker_DefaultOrganization_20231015003723\RGB_Color_Picker_DefaultOrganization_20231015003723.log", "Log", 0, 0, 0, 0, 3266, 0, 0, 0, 0, 1080, 4346
+"c:\GitHub\InteliChatDev\WareHouse\RGB_Color_Picker_DefaultOrganization_20231015003723\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\RGB_Color_Picker_DefaultOrganization_20231015003723\gui.py", "Python", 0, 0, 38, 0, 0, 0, 0, 0, 12, 0, 50
+"c:\GitHub\InteliChatDev\WareHouse\RGB_Color_Picker_DefaultOrganization_20231015003723\main.py", "Python", 0, 0, 8, 0, 0, 0, 0, 0, 2, 0, 10
+"c:\GitHub\InteliChatDev\WareHouse\RGB_Color_Picker_DefaultOrganization_20231015003723\manual.md", "Markdown", 45, 0, 0, 0, 0, 0, 0, 0, 0, 33, 78
+"c:\GitHub\InteliChatDev\WareHouse\RGB_Color_Picker_DefaultOrganization_20231015003723\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\Script_Manager_DefaultOrganization_20231016105222.log", "Log", 0, 0, 0, 0, 61, 0, 0, 0, 0, 33, 94
+"c:\GitHub\InteliChatDev\WareHouse\Script_Manager_DefaultOrganization_20231016105428\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\Script_Manager_DefaultOrganization_20231016105428\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\Script_Manager_DefaultOrganization_20231016105428\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Script_Manager_DefaultOrganization_20231016105428\Script_Manager_DefaultOrganization_20231016105428.log", "Log", 0, 0, 0, 0, 2652, 0, 0, 0, 0, 667, 3319
+"c:\GitHub\InteliChatDev\WareHouse\Script_Manager_DefaultOrganization_20231016105428\main.py", "Python", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 60
+"c:\GitHub\InteliChatDev\WareHouse\Script_Manager_DefaultOrganization_20231016105428\manual.md", "Markdown", 31, 0, 0, 0, 0, 0, 0, 0, 0, 26, 57
+"c:\GitHub\InteliChatDev\WareHouse\Script_Manager_DefaultOrganization_20231016105428\requirements.txt", "pip requirements", 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\ChatChainConfig.json", "JSON", 0, 0, 0, 114, 0, 0, 0, 0, 0, 1, 115
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\Space Invasion 2_Classified39_20231006210047.log", "Log", 0, 0, 0, 0, 7311, 0, 0, 0, 0, 1300, 8611
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\bullet.py", "Python", 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 24
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\enemy.py", "Python", 0, 0, 17, 0, 0, 0, 0, 0, 1, 0, 18
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\game.py", "Python", 0, 0, 71, 0, 0, 0, 0, 0, 5, 0, 76
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\main.py", "Python", 0, 0, 29, 0, 0, 0, 0, 0, 7, 0, 36
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\manual.md", "Markdown", 51, 0, 0, 0, 0, 0, 0, 0, 0, 18, 69
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\player.py", "Python", 0, 0, 23, 0, 0, 0, 0, 0, 1, 0, 24
+"c:\GitHub\InteliChatDev\WareHouse\Space_Invasion_Classified39_20231006210047\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\SpriteMaker_THUNLP_20230825072337.log", "Log", 0, 0, 0, 0, 9975, 0, 0, 0, 0, 3077, 13052
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\canvas.py", "Python", 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 41
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\editor.py", "Python", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 18
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\main.py", "Python", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 12
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\manual.md", "Markdown", 105, 0, 0, 0, 0, 0, 0, 0, 0, 79, 184
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\SpriteMaker_THUNLP_20230825072337\toolbar.py", "Python", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 18
+"c:\GitHub\InteliChatDev\WareHouse\TicTacToe_THUNLP_20230825093547\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\TicTacToe_THUNLP_20230825093547\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\TicTacToe_THUNLP_20230825093547\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\TicTacToe_THUNLP_20230825093547\TicTacToe_THUNLP_20230825093547.log", "Log", 0, 0, 0, 0, 3047, 0, 0, 0, 0, 1074, 4121
+"c:\GitHub\InteliChatDev\WareHouse\TicTacToe_THUNLP_20230825093547\game.py", "Python", 0, 0, 37, 0, 0, 0, 0, 0, 0, 0, 37
+"c:\GitHub\InteliChatDev\WareHouse\TicTacToe_THUNLP_20230825093547\main.py", "Python", 0, 0, 39, 0, 0, 0, 0, 0, 0, 0, 39
+"c:\GitHub\InteliChatDev\WareHouse\TicTacToe_THUNLP_20230825093547\manual.md", "Markdown", 34, 0, 0, 0, 0, 0, 0, 0, 0, 29, 63
+"c:\GitHub\InteliChatDev\WareHouse\TicTacToe_THUNLP_20230825093547\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\ToDo_THUNLP_20230825072331\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\ToDo_THUNLP_20230825072331\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\ToDo_THUNLP_20230825072331\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\ToDo_THUNLP_20230825072331\ToDo_THUNLP_20230825072331.log", "Log", 0, 0, 0, 0, 6705, 0, 0, 0, 0, 2302, 9007
+"c:\GitHub\InteliChatDev\WareHouse\ToDo_THUNLP_20230825072331\main.py", "Python", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 10
+"c:\GitHub\InteliChatDev\WareHouse\ToDo_THUNLP_20230825072331\manual.md", "Markdown", 43, 0, 0, 0, 0, 0, 0, 0, 0, 25, 68
+"c:\GitHub\InteliChatDev\WareHouse\ToDo_THUNLP_20230825072331\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\ToDo_THUNLP_20230825072331\todo_app.py", "Python", 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 47
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\20230824105537.log", "Log", 0, 0, 0, 0, 10394, 0, 0, 0, 0, 3088, 13482
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\main.py", "Python", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 11
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\manual.md", "Markdown", 72, 0, 0, 0, 0, 0, 0, 0, 0, 57, 129
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\progress_tracker.py", "Python", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 17
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\requirements.txt", "pip requirements", 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\typing_exercise.py", "Python", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\typing_practice.py", "Python", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 31
+"c:\GitHub\InteliChatDev\WareHouse\Typing_THUNLP_20230824105537\typing_tutor.py", "Python", 0, 0, 37, 0, 0, 0, 0, 0, 0, 0, 37
+"c:\GitHub\InteliChatDev\WareHouse\Website_THUNLP_20230725154612\20230725154612.log", "Log", 0, 0, 0, 0, 1538, 0, 0, 0, 0, 467, 2005
+"c:\GitHub\InteliChatDev\WareHouse\Website_THUNLP_20230725154612\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\Website_THUNLP_20230725154612\PhaseConfig.json", "JSON", 0, 0, 0, 304, 0, 0, 0, 0, 0, 0, 304
+"c:\GitHub\InteliChatDev\WareHouse\Website_THUNLP_20230725154612\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\Website_THUNLP_20230725154612\index.html", "HTML", 0, 0, 0, 0, 0, 19, 0, 0, 0, 2, 21
+"c:\GitHub\InteliChatDev\WareHouse\Website_THUNLP_20230725154612\script.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 12
+"c:\GitHub\InteliChatDev\WareHouse\Website_THUNLP_20230725154612\style.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 25, 3, 0, 28
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\PhaseConfig.json", "JSON", 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 277
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\WordCloud_THUNLP_20231015215721.log", "Log", 0, 0, 0, 0, 3476, 0, 0, 0, 0, 780, 4256
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\main.py", "Python", 0, 0, 42, 0, 0, 0, 0, 0, 0, 0, 42
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\manual.md", "Markdown", 26, 0, 0, 0, 0, 0, 0, 0, 0, 9, 35
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\readme.md", "Markdown", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\requirements.txt", "pip requirements", 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\GitHub\InteliChatDev\WareHouse\WordCloud_THUNLP_20231015215721\setup.py", "Python", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 17
+"c:\GitHub\InteliChatDev\WareHouse\WordExpand_THUNLP_20230825093623\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\WordExpand_THUNLP_20230825093623\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\WordExpand_THUNLP_20230825093623\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\WordExpand_THUNLP_20230825093623\WordExpand_THUNLP_20230825093623.log", "Log", 0, 0, 0, 0, 2939, 0, 0, 0, 0, 1039, 3978
+"c:\GitHub\InteliChatDev\WareHouse\WordExpand_THUNLP_20230825093623\main.py", "Python", 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 44
+"c:\GitHub\InteliChatDev\WareHouse\WordExpand_THUNLP_20230825093623\manual.md", "Markdown", 51, 0, 0, 0, 0, 0, 0, 0, 0, 21, 72
+"c:\GitHub\InteliChatDev\WareHouse\WordExpand_THUNLP_20230825093623\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\GitHub\InteliChatDev\WareHouse\WordExpand_THUNLP_20230825093623\vocabulary.py", "Python", 0, 0, 22, 0, 0, 0, 0, 0, 1, 0, 23
+"c:\GitHub\InteliChatDev\WareHouse\gomokugameArtExample_THUNLP_20230831122822\ChatChainConfig.json", "JSON", 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 120
+"c:\GitHub\InteliChatDev\WareHouse\gomokugameArtExample_THUNLP_20230831122822\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\gomokugameArtExample_THUNLP_20230831122822\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\gomokugameArtExample_THUNLP_20230831122822\board.py", "Python", 0, 0, 50, 0, 0, 0, 0, 0, 1, 0, 51
+"c:\GitHub\InteliChatDev\WareHouse\gomokugameArtExample_THUNLP_20230831122822\gomokugame_DefaultOrganization_20230831122822.log", "Log", 0, 0, 0, 0, 5264, 0, 0, 0, 0, 1799, 7063
+"c:\GitHub\InteliChatDev\WareHouse\gomokugameArtExample_THUNLP_20230831122822\main.py", "Python", 0, 0, 38, 0, 0, 0, 0, 0, 7, 0, 45
+"c:\GitHub\InteliChatDev\WareHouse\gomokugameArtExample_THUNLP_20230831122822\manual.md", "Markdown", 25, 0, 0, 0, 0, 0, 0, 0, 0, 18, 43
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\20230823102935.log", "Log", 0, 0, 0, 0, 10168, 0, 0, 0, 0, 2546, 12714
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\html_generator.py", "Python", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\main.py", "Python", 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 47
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\manual.md", "Markdown", 34, 0, 0, 0, 0, 0, 0, 0, 0, 17, 51
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\markdown_parser.py", "Python", 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 36
+"c:\GitHub\InteliChatDev\WareHouse\md2html_THUNLP_20230823102935\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\mspaint_THUNLP_20230821204606\20230821204606.log", "Log", 0, 0, 0, 0, 3481, 0, 0, 0, 0, 1268, 4749
+"c:\GitHub\InteliChatDev\WareHouse\mspaint_THUNLP_20230821204606\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\mspaint_THUNLP_20230821204606\PhaseConfig.json", "JSON", 0, 0, 0, 302, 0, 0, 0, 0, 0, 0, 302
+"c:\GitHub\InteliChatDev\WareHouse\mspaint_THUNLP_20230821204606\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\mspaint_THUNLP_20230821204606\main.py", "Python", 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 9
+"c:\GitHub\InteliChatDev\WareHouse\mspaint_THUNLP_20230821204606\manual.md", "Markdown", 66, 0, 0, 0, 0, 0, 0, 0, 0, 30, 96
+"c:\GitHub\InteliChatDev\WareHouse\mspaint_THUNLP_20230821204606\paint_app.py", "Python", 0, 0, 75, 0, 0, 0, 0, 0, 2, 0, 77
+"c:\GitHub\InteliChatDev\WareHouse\mspaint_THUNLP_20230821204606\requirements.txt", "pip requirements", 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"c:\GitHub\InteliChatDev\WareHouse\musicplayer_THUNLP_20230824113404\20230824113404.log", "Log", 0, 0, 0, 0, 8056, 0, 0, 0, 0, 2866, 10922
+"c:\GitHub\InteliChatDev\WareHouse\musicplayer_THUNLP_20230824113404\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\musicplayer_THUNLP_20230824113404\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\musicplayer_THUNLP_20230824113404\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\musicplayer_THUNLP_20230824113404\main.py", "Python", 0, 0, 97, 0, 0, 0, 0, 0, 0, 0, 97
+"c:\GitHub\InteliChatDev\WareHouse\musicplayer_THUNLP_20230824113404\manual.md", "Markdown", 22, 0, 0, 0, 0, 0, 0, 0, 0, 17, 39
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\20230817193956.log", "Log", 0, 0, 0, 0, 3406, 0, 0, 0, 0, 1309, 4715
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\PhaseConfig.json", "JSON", 0, 0, 0, 304, 0, 0, 0, 0, 0, 0, 304
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\ball.py", "Python", 0, 0, 34, 0, 0, 0, 0, 0, 0, 0, 34
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\game.py", "Python", 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 64
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\main.py", "Python", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 11
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\manual.md", "Markdown", 61, 0, 0, 0, 0, 0, 0, 0, 0, 21, 82
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\paddle.py", "Python", 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 24
+"c:\GitHub\InteliChatDev\WareHouse\pingpong_THUNLP_20230817193956\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\timer_THUNLP_20230823091709\20230823091709.log", "Log", 0, 0, 0, 0, 8030, 0, 0, 0, 0, 3020, 11050
+"c:\GitHub\InteliChatDev\WareHouse\timer_THUNLP_20230823091709\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\timer_THUNLP_20230823091709\PhaseConfig.json", "JSON", 0, 0, 0, 303, 0, 0, 0, 0, 0, 0, 303
+"c:\GitHub\InteliChatDev\WareHouse\timer_THUNLP_20230823091709\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\timer_THUNLP_20230823091709\main.py", "Python", 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 47
+"c:\GitHub\InteliChatDev\WareHouse\timer_THUNLP_20230823091709\manual.md", "Markdown", 39, 0, 0, 0, 0, 0, 0, 0, 0, 17, 56
+"c:\GitHub\InteliChatDev\WareHouse\timer_THUNLP_20230823091709\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\timer_THUNLP_20230823091709\timer.py", "Python", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\game.py", "Python", 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 43
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\level.py", "Python", 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 55
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\main.py", "Python", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 11
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\manual.md", "Markdown", 34, 0, 0, 0, 0, 0, 0, 0, 0, 20, 54
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\player.py", "Python", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 31
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\tiny_rogue_like_DefaultOrganization_20230905232453\tiny_rogue_like_DefaultOrganization_20230905232453.log", "Log", 0, 0, 0, 0, 3825, 0, 0, 0, 0, 777, 4602
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\ChatChainConfig.json", "JSON", 0, 0, 0, 114, 0, 0, 0, 0, 0, 1, 115
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\character.py", "Python", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 16
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\circle.py", "Python", 0, 0, 37, 0, 0, 0, 0, 0, 3, 0, 40
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\main.py", "Python", 0, 0, 39, 0, 0, 0, 0, 0, 15, 0, 54
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\manual.md", "Markdown", 38, 0, 0, 0, 0, 0, 0, 0, 0, 25, 63
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\requirements.txt", "pip requirements", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\GitHub\InteliChatDev\WareHouse\trippy_avoid_game_DefaultOrganization_20231006224623\trippy_avoid_game_DefaultOrganization_20231006224623.log", "Log", 0, 0, 0, 0, 4004, 0, 0, 0, 0, 962, 4966
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\ChatChainConfig.json", "JSON", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 101
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\MyFirstSoftware_DefaultOrganization_20230824233151.log", "Log", 0, 0, 0, 0, 6559, 0, 0, 0, 0, 2952, 9511
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\PhaseConfig.json", "JSON", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 301
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\RoleConfig.json", "JSON", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 65
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\main.py", "Python", 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 30
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\manual.md", "Markdown", 42, 0, 0, 0, 0, 0, 0, 0, 0, 31, 73
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\requirements.txt", "pip requirements", 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\video_player.py", "Python", 0, 0, 18, 0, 0, 0, 0, 0, 9, 0, 27
+"c:\GitHub\InteliChatDev\WareHouse\videoplayer_THUNLP_20230824233151\videoplayer.py", "Python", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\GitHub\InteliChatDev\camel\__init__.py", "Python", 0, 0, 12, 0, 0, 0, 0, 0, 13, 3, 28
+"c:\GitHub\InteliChatDev\camel\agents\__init__.py", "Python", 0, 0, 19, 0, 0, 0, 0, 0, 13, 2, 34
+"c:\GitHub\InteliChatDev\camel\agents\base.py", "Python", 0, 0, 11, 0, 0, 0, 0, 0, 13, 5, 29
+"c:\GitHub\InteliChatDev\camel\agents\chat_agent.py", "Python", 0, 0, 125, 0, 0, 0, 0, 0, 83, 22, 230
+"c:\GitHub\InteliChatDev\camel\agents\critic_agent.py", "Python", 0, 0, 96, 0, 0, 0, 0, 0, 64, 16, 176
+"c:\GitHub\InteliChatDev\camel\agents\embodied_agent.py", "Python", 0, 0, 74, 0, 0, 0, 0, 0, 44, 15, 133
+"c:\GitHub\InteliChatDev\camel\agents\role_playing.py", "Python", 0, 0, 169, 0, 0, 0, 0, 0, 82, 24, 275
+"c:\GitHub\InteliChatDev\camel\agents\task_agent.py", "Python", 0, 0, 85, 0, 0, 0, 0, 0, 64, 23, 172
+"c:\GitHub\InteliChatDev\camel\agents\tool_agents\__init__.py", "Python", 0, 0, 6, 0, 0, 0, 0, 0, 13, 2, 21
+"c:\GitHub\InteliChatDev\camel\agents\tool_agents\base.py", "Python", 0, 0, 8, 0, 0, 0, 0, 0, 19, 6, 33
+"c:\GitHub\InteliChatDev\camel\agents\tool_agents\hugging_face_tool_agent.py", "Python", 0, 0, 46, 0, 0, 0, 0, 0, 135, 8, 189
+"c:\GitHub\InteliChatDev\camel\configs.py", "Python", 0, 0, 15, 0, 0, 0, 0, 0, 59, 3, 77
+"c:\GitHub\InteliChatDev\camel\generators.py", "Python", 0, 0, 175, 0, 0, 0, 0, 0, 52, 41, 268
+"c:\GitHub\InteliChatDev\camel\human.py", "Python", 0, 0, 63, 0, 0, 0, 0, 0, 56, 11, 130
+"c:\GitHub\InteliChatDev\camel\messages\__init__.py", "Python", 0, 0, 36, 0, 0, 0, 0, 0, 13, 5, 54
+"c:\GitHub\InteliChatDev\camel\messages\base.py", "Python", 0, 0, 145, 0, 0, 0, 0, 0, 131, 27, 303
+"c:\GitHub\InteliChatDev\camel\messages\chat_messages.py", "Python", 0, 0, 36, 0, 0, 0, 0, 0, 45, 9, 90
+"c:\GitHub\InteliChatDev\camel\messages\system_messages.py", "Python", 0, 0, 28, 0, 0, 0, 0, 0, 46, 8, 82
+"c:\GitHub\InteliChatDev\camel\model_backend.py", "Python", 0, 0, 86, 0, 0, 0, 0, 0, 27, 23, 136
+"c:\GitHub\InteliChatDev\camel\prompts\__init__.py", "Python", 0, 0, 9, 0, 0, 0, 0, 0, 13, 2, 24
+"c:\GitHub\InteliChatDev\camel\prompts\base.py", "Python", 0, 0, 92, 0, 0, 0, 0, 0, 116, 26, 234
+"c:\GitHub\InteliChatDev\camel\prompts\prompt_templates.py", "Python", 0, 0, 45, 0, 0, 0, 0, 0, 60, 13, 118
+"c:\GitHub\InteliChatDev\camel\prompts\task_prompt_template.py", "Python", 0, 0, 17, 0, 0, 0, 0, 0, 20, 5, 42
+"c:\GitHub\InteliChatDev\camel\typing.py", "Python", 0, 0, 57, 0, 0, 0, 0, 0, 13, 12, 82
+"c:\GitHub\InteliChatDev\camel\utils.py", "Python", 0, 0, 100, 0, 0, 0, 0, 0, 93, 28, 221
+"c:\GitHub\InteliChatDev\chatdev\chat_chain.py", "Python", 0, 0, 209, 0, 0, 0, 0, 0, 83, 46, 338
+"c:\GitHub\InteliChatDev\chatdev\chat_env.py", "Python", 0, 0, 225, 0, 0, 0, 0, 0, 3, 39, 267
+"c:\GitHub\InteliChatDev\chatdev\codes.py", "Python", 0, 0, 116, 0, 0, 0, 0, 0, 3, 19, 138
+"c:\GitHub\InteliChatDev\chatdev\composed_phase.py", "Python", 0, 0, 148, 0, 0, 0, 0, 0, 64, 41, 253
+"c:\GitHub\InteliChatDev\chatdev\documents.py", "Python", 0, 0, 40, 0, 0, 0, 0, 0, 0, 8, 48
+"c:\GitHub\InteliChatDev\chatdev\phase.py", "Python", 0, 0, 453, 0, 0, 0, 0, 0, 109, 81, 643
+"c:\GitHub\InteliChatDev\chatdev\roster.py", "Python", 0, 0, 17, 0, 0, 0, 0, 0, 0, 4, 21
+"c:\GitHub\InteliChatDev\chatdev\statistics.py", "Python", 0, 0, 126, 0, 0, 0, 0, 0, 17, 29, 172
+"c:\GitHub\InteliChatDev\chatdev\utils.py", "Python", 0, 0, 60, 0, 0, 0, 0, 0, 3, 17, 80
+"c:\GitHub\InteliChatDev\online_log\app.py", "Python", 0, 0, 50, 0, 0, 0, 0, 0, 0, 18, 68
+"c:\GitHub\InteliChatDev\online_log\static\chain_visualizer.html", "HTML", 0, 0, 0, 0, 0, 134, 0, 0, 0, 31, 165
+"c:\GitHub\InteliChatDev\online_log\static\css\style.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 120, 0, 18, 138
+"c:\GitHub\InteliChatDev\online_log\static\index.html", "HTML", 0, 0, 0, 0, 0, 47, 0, 0, 0, 5, 52
+"c:\GitHub\InteliChatDev\online_log\static\js\main.js", "JavaScript", 0, 0, 0, 0, 0, 0, 105, 0, 3, 32, 140
+"c:\GitHub\InteliChatDev\online_log\static\replay.html", "HTML", 0, 0, 0, 0, 0, 106, 0, 0, 1, 11, 118
+"c:\GitHub\InteliChatDev\online_log\static\replay\css\github-markdown-dark.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 840, 0, 168, 1008
+"c:\GitHub\InteliChatDev\online_log\static\replay\css\use.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 198, 2, 34, 234
+"c:\GitHub\InteliChatDev\online_log\static\replay\js\app.js", "JavaScript", 0, 0, 0, 0, 0, 0, 522, 0, 10, 46, 578
+"c:\GitHub\InteliChatDev\online_log\static\replay\js\highlight.js", "JavaScript", 0, 0, 0, 0, 0, 0, 1378, 0, 906, 292, 2576
+"c:\GitHub\InteliChatDev\online_log\static\replay\logs\20230727204525.log", "Log", 0, 0, 0, 0, 2992, 0, 0, 0, 0, 727, 3719
+"c:\GitHub\InteliChatDev\requirements.txt", "pip requirements", 0, 80, 0, 0, 0, 0, 0, 0, 0, 1, 81
+"c:\GitHub\InteliChatDev\run.py", "Python", 0, 0, 53, 0, 0, 0, 0, 0, 41, 24, 118
+"c:\GitHub\InteliChatDev\wiki.md", "Markdown", 267, 0, 0, 0, 0, 0, 0, 0, 0, 46, 313
+"Total", "-", 2636, 134, 7286, 21848, 257365, 306, 2005, 1183, 2758, 77978, 373499
