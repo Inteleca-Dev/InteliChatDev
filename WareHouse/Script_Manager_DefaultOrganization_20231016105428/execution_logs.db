@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS logs (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    file_path TEXT,
+    schedule_time TEXT,
+    execution_time TEXT
+);
