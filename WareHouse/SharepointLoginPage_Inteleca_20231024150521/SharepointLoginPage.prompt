@@ -1,0 +1,1 @@
+CTO and team, please develop a custom sign-in page for SharePoint 2019 on-premise to gracefully handle external logins. Detect external access and adjust the authentication process to prevent repetitive login prompts. Ensure security and user experience are prioritized.

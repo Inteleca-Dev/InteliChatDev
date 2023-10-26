@@ -1,0 +1,30 @@
+Task:
+I want a tool that will allow for me to upload files into an onsite sharepoint using python. I want to have the ability to toggle what automations should run and a scheduler for when it should run, use a simple script to make a file and upload into the sharepoint with 'http://intwsus/' servername and windows authentication will automatically log me in as admin  
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

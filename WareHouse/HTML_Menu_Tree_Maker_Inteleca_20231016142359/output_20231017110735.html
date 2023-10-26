@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Template</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .menu {
+            display: flex;
+            gap: 20px;
+        }
+
+        .dropdown {
+            cursor: pointer;
+        }
+
+        .columns {
+            display: flex;
+            gap: 50px;
+            margin-top: 20px;
+        }
+
+        .column {
+            list-style: none;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="menu">
+        <div class="dropdown">Routers</div>
+        <div class="dropdown">Switches</div>
+        <div class="dropdown">Wireless</div>
+        <!-- Add more dropdowns as needed -->
+    </div>
+
+    <div class="menu">
+        <div class="dropdown">Cisco</div>
+        <div class="dropdown">Juniper</div>
+        <!-- Add more dropdowns as needed -->
+    </div>
+
+    <div class="columns">
+        <ul class="column">
+            <li>1800 Series</li>
+            <li>2900 Series</li>
+            <!-- Add more series as needed -->
+        </ul>
+
+        <ul class="column">
+            <li>1900 Series</li>
+            <li>3800 Series</li>
+            <!-- Add more series as needed -->
+        </ul>
+
+        <ul class="column">
+            <li>2800 Series</li>
+            <li>3900 Series</li>
+            <!-- Add more series as needed -->
+        </ul>
+    </div>
+
+</body>
+
+</html>

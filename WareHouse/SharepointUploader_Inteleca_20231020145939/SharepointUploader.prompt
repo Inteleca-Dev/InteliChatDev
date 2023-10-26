@@ -1,0 +1,1 @@
+I want a tool that will allow for me to upload files into an onsite sharepoint using python. I want to have the ability to toggle what automations should run and a scheduler for when it should run, use a simple script to make a file and upload into the sharepoint with 'http://intwsus/' servername and windows authentication will automatically log me in as admin  

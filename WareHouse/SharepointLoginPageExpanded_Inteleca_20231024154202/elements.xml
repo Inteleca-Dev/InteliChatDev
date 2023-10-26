@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="CustomLoginPageModule" Url="_layouts">
+    <File Path="CustomLoginPageModule\CustomLogin.aspx" Url="CustomLogin.aspx" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+  </Module>
+</Elements>

@@ -1,0 +1,1 @@
+pip install pandas jinja2 tkinter

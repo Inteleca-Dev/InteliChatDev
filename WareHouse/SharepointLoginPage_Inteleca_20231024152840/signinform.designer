@@ -1,0 +1,8 @@
+namespace SharePointSignInPage
+{
+    partial class SignInForm
+    {
+        // Auto-generated code for form design
+        // Omitted for brevity
+    }
+}

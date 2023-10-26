@@ -60,7 +60,7 @@ def get_config(company):
 parser = argparse.ArgumentParser(description='argparse')
 parser.add_argument('--config', type=str, default="Default",
                     help="Name of config, which is used to load configuration under CompanyConfig/")
-parser.add_argument('--org', type=str, default="DefaultOrganization",
+parser.add_argument('--org', type=str, default="Inteleca",
                     help="Name of organization, your software will be generated in WareHouse/name_org_timestamp")
 parser.add_argument('--task', type=str, default="Develop a basic Gomoku game.",
                     help="Prompt of software")
